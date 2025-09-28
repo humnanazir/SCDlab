@@ -1,0 +1,4 @@
+Hello from Nain and Humna! 👋
+
+This is just a sample file to test our new repository.
+More exciting files will be added soon!
