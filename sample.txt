@@ -2,3 +2,8 @@ Hello from Nain and Humna! 👋
 
 This is just a sample file to test our new repository.
 More exciting files will be added soon!
+
+We’ll keep adding files, experiments, and small projects here to track our progress.
+Think of this repo as our shared digital notebook. ✨
+
+Thanks for visiting, and follow along as we grow! 🚀
