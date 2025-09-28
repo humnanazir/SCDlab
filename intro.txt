@@ -1,0 +1,1 @@
+This repository is created by Nain and Humna as a collaborative project to explore coding, learn Git, and practice version control workflows together.
